@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{687AF3CF-D7F6-47F9-A08E-8E6C7FCDAB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{6EE5CF13-E8BE-46B4-B268-BA5B6BB7B2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{75DE552B-19E4-4D80-93BE-7F1E5DF5E62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687AF3CF-D7F6-47F9-A08E-8E6C7FCDAB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687AF3CF-D7F6-47F9-A08E-8E6C7FCDAB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687AF3CF-D7F6-47F9-A08E-8E6C7FCDAB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687AF3CF-D7F6-47F9-A08E-8E6C7FCDAB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE5CF13-E8BE-46B4-B268-BA5B6BB7B2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE5CF13-E8BE-46B4-B268-BA5B6BB7B2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE5CF13-E8BE-46B4-B268-BA5B6BB7B2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE5CF13-E8BE-46B4-B268-BA5B6BB7B2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75DE552B-19E4-4D80-93BE-7F1E5DF5E62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DE552B-19E4-4D80-93BE-7F1E5DF5E62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DE552B-19E4-4D80-93BE-7F1E5DF5E62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DE552B-19E4-4D80-93BE-7F1E5DF5E62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D99450-D327-450F-A287-E9DB66924ACF}
+	EndGlobalSection
+EndGlobal

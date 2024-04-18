@@ -1,0 +1,30 @@
+[
+  {
+ 
+
+    "Nombre": "Zapatos",
+    "Descripcion": "Zapatos Prueba Jose",
+    "Stock": 100,
+    "MarcaId": 1,
+    "Precio": 120,
+    "Descuento": 0.1,
+    "Imagen": ""
+  },
+  {
+
+
+    "Nombre": "Camisa",
+    "Descripcion": "Camisa",
+    "Stock": 100,
+    "MarcaId": 2,
+    "Precio": 120,
+    "Descuento": 0.1,
+    "Imagen": ""
+
+
+  }
+
+
+
+
+]
